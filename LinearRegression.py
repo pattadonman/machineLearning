@@ -1,3 +1,36 @@
+#=======================================================================================
+# """
+# ===================================================
+# Linear Regression Implementation with Visualization
+# ===================================================
+
+# Author       : Pattadon Nutes
+# Date Created : December 2, 2024
+# Last Updated : December 2, 2024
+# Version      : 01.00.00
+# Description  : 
+#     This script demonstrates a simple implementation 
+#     of Linear Regression using synthetic data. The 
+#     model is trained with scikit-learn, and the results 
+#     are visualized with Matplotlib.
+
+# Python Version: 
+# Dependencies  : 
+#     - numpy 
+#     - matplotlib 
+#     - scikit-learn 
+
+# Usage:
+#     Run this script in a Python environment with 
+#     the required libraries installed. It will 
+#     generate a scatter plot showing the actual data 
+#     points and the regression line.
+
+# License:
+#     
+#=======================================================================================
+
+
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.model_selection import train_test_split
